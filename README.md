@@ -1,4 +1,4 @@
-# Python-Cicular-pattern
+# Python-Circular-pattern
 Python circular pattern print using 'import turtle' command
 
 Python Code:
